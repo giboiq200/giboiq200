@@ -54,14 +54,6 @@ https://github.com/giboiq200/qr-code-generator
 
 ---
 
-## 📊 GitHub Stats (Dark Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giboiq200&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giboiq200&layout=compact&theme=dark" height="160"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 - 💼 GitHub: https://github.com/giboiq200  
