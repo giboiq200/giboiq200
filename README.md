@@ -32,6 +32,9 @@ I’m a student who enjoys building practical projects and exploring different a
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=linux&logoColor=lightblue)
 
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=blue)
+
 ---
 
 ## 📌 Featured Projects
