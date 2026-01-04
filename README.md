@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Bogdan
 
-<!--
-**giboiq200/giboiq200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student Developer** | 💻 Full-Stack Enthusiast | 🔐 Cybersecurity & 🎮 Game Dev Explorer  
 
-Here are some ideas to get you started:
+I’m a student who enjoys building practical projects and exploring different areas of software development, especially **full-stack development**, **cybersecurity**, and **game development**. I like learning by doing and turning ideas into working applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Interests & Focus
+- 🌐 Full-Stack Web Development  
+- 🔐 Cybersecurity & Linux-based environments  
+- 🎮 Game Development (C++ / Raylib)  
+- ⚙️ Backend APIs & automation  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
+
+### 🧩 Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=green)
+![Raylib](https://img.shields.io/badge/Raylib-111111?style=for-the-badge&logo=c&logoColor=lightgrey)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=linux&logoColor=lightblue)
+
+---
+
+## 📌 Featured Projects
+
+### 🖼️ Background Remover
+🔹 Removes image backgrounds automatically using Python  
+🔹 Focused on simplicity and usability  
+
+👉 **Repository:**  
+https://github.com/giboiq200/Background-remover
+
+---
+
+### 🔳 QR Code Generator
+🔹 Generates QR codes quickly and easily  
+🔹 Built as a lightweight and practical utility  
+
+👉 **Repository:**  
+https://github.com/giboiq200/qr-code-generator
+
+---
+
+## 📊 GitHub Stats (Dark Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giboiq200&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giboiq200&layout=compact&theme=dark" height="160"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+- 💼 GitHub: https://github.com/giboiq200  
+
+---
+
+⭐ *Always learning, building, and improving.*
