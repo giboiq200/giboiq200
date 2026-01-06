@@ -43,8 +43,7 @@ I’m a student who enjoys building practical projects and exploring different a
 🔹 Removes image backgrounds automatically using Python  
 🔹 Focused on simplicity and usability  
 
-👉 **Repository:**  
-https://github.com/giboiq200/Background-remover
+👉 **Repository:** [Background Remover](https://github.com/giboiq200/Background-remover)
 
 ---
 
@@ -52,21 +51,21 @@ https://github.com/giboiq200/Background-remover
 🔹 Generates QR codes quickly and easily  
 🔹 Built as a lightweight and practical utility  
 
-👉 **Repository:**  
-https://github.com/giboiq200/qr-code-generator
+👉 **Repository:** [QR Code Generator](https://github.com/giboiq200/qr-code-generator)
 
 ---
-### 📚 Book Scraper Web App
-🔹 Scrapes books from books.toscrape.com and stores them in SQLite
-🔹 Features search, filter, and elegant dark/light mode
-🔹 Full-stack project with FastAPI backend and responsive frontend
 
-👉 Repository:
-https://github.com/giboiq200/Web-scraper
+### 📚 Book Scraper Web App
+🔹 Full-stack web app scraping books from [books.toscrape.com](https://books.toscrape.com)  
+🔹 Features: search, filter, and elegant dark/light mode  
+🔹 Backend: **FastAPI + SQLite** | Frontend: **HTML, CSS, JavaScript**  
+
+👉 **Repository:** [Book Scraper](https://github.com/giboiq200/Web-scraper)
+
 ---
 
 ## 📫 Connect With Me
-- 💼 GitHub: https://github.com/giboiq200  
+- 💼 GitHub: [https://github.com/giboiq200](https://github.com/giboiq200)  
 
 ---
 
