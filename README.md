@@ -42,6 +42,7 @@ I’m a student who enjoys building practical projects and exploring different a
 ### 🖼️ Background Remover
 🔹 Removes image backgrounds automatically using Python  
 🔹 Focused on simplicity and usability  
+🔹 Backend: **FastAPI + SQLite** | Frontend: **HTML, CSS, JavaScript** 
 
 👉 **Repository:** [Background Remover](https://github.com/giboiq200/Background-remover)
 
@@ -49,7 +50,8 @@ I’m a student who enjoys building practical projects and exploring different a
 
 ### 🔳 QR Code Generator
 🔹 Generates QR codes quickly and easily  
-🔹 Built as a lightweight and practical utility  
+🔹 Built as a lightweight and practical utility 
+🔹 Backend: **FastAPI + SQLite** | Frontend: **HTML, CSS, JavaScript** 
 
 👉 **Repository:** [QR Code Generator](https://github.com/giboiq200/qr-code-generator)
 
