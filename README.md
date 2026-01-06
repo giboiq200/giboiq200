@@ -56,7 +56,14 @@ https://github.com/giboiq200/Background-remover
 https://github.com/giboiq200/qr-code-generator
 
 ---
+### 📚 Book Scraper Web App
+🔹 Scrapes books from books.toscrape.com and stores them in SQLite
+🔹 Features search, filter, and elegant dark/light mode
+🔹 Full-stack project with FastAPI backend and responsive frontend
 
+👉 Repository:
+https://github.com/giboiq200/Web-scraper
+---
 
 ## 📫 Connect With Me
 - 💼 GitHub: https://github.com/giboiq200  
