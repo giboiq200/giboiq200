@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bogdan
 
-🎓 **Student Developer** | 💻 Full-Stack Enthusiast | 🔐 Cybersecurity & 🎮 Game Dev Explorer  
+🎓 **Student Developer** | 💻 Full-Stack Enthusiast | 🔐 Cybersecurity & 🎮 Game Developer  
 
 I’m a student who enjoys building practical projects and exploring different areas of software development, especially **full-stack development**, **cybersecurity**, and **game development**. I like learning by doing and turning ideas into working applications.
 
