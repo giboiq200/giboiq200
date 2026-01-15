@@ -39,10 +39,28 @@ I’m a student who enjoys building practical projects and exploring different a
 
 ## 📌 Featured Projects
 
+### 🎮 Gameplay Framework
+🔹 Modular gameplay framework for game development  
+🔹 Focused on clean architecture, extensibility, and system reusability  
+🔹 Suitable for experimentation and rapid prototyping  
+
+👉 **Repository:** [Gameplay Framework](https://github.com/giboiq200/gameplay_framework)
+
+---
+
+### 🧭 Gameplay Pathfinding & AI Navigation System
+🔹 AI navigation and pathfinding system for games  
+🔹 Implements algorithms for NPC movement and decision-making  
+🔹 Focused on performance and realistic AI behavior  
+
+👉 **Repository:** [Pathfinding & AI Navigation](https://github.com/giboiq200/Gameplay-Pathfinding-AI-Navigation-System)
+
+---
+
 ### 🖼️ Background Remover
 🔹 Removes image backgrounds automatically using Python  
 🔹 Focused on simplicity and usability  
-🔹 Backend: **FastAPI + SQLite** | Frontend: **HTML, CSS, JavaScript** 
+🔹 Backend: **FastAPI + SQLite** | Frontend: **HTML, CSS, JavaScript**
 
 👉 **Repository:** [Background Remover](https://github.com/giboiq200/Background-remover)
 
@@ -50,7 +68,7 @@ I’m a student who enjoys building practical projects and exploring different a
 
 ### 🔳 QR Code Generator
 🔹 Generates QR codes quickly and easily  
-🔹 Built as a lightweight and practical utility 
+🔹 Built as a lightweight and practical utility  
 
 👉 **Repository:** [QR Code Generator](https://github.com/giboiq200/qr-code-generator)
 
@@ -58,12 +76,11 @@ I’m a student who enjoys building practical projects and exploring different a
 
 ### 📚 Book Scraper Web App
 🔹 Full-stack web app scraping books from [books.toscrape.com](https://books.toscrape.com)  
-🔹 Features: search, filter, and elegant dark/light mode  
-🔹 Backend: **FastAPI + SQLite** | Frontend: **HTML, CSS, JavaScript**  
+🔹 Features search, filtering, and elegant dark/light mode  
+🔹 Backend: **FastAPI + SQLite** | Frontend: **HTML, CSS, JavaScript**
 
 👉 **Repository:** [Book Scraper](https://github.com/giboiq200/Web-scraper)
 
----
 
 ## 📫 Connect With Me
 - 💼 GitHub: [https://github.com/giboiq200](https://github.com/giboiq200)  
